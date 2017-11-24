@@ -1,0 +1,31 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          J3551c9 Perez
+paginate:       5
+baseurl:        ""
+url:            ""
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         J3551c9 Perez
+  url:          "https://J3551c9.github.io"
+  email:        tjessicaperez@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/J3551c9
+
+# Gems
+plugins:
+  - jekyll-paginate
